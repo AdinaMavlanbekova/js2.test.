@@ -1,0 +1,11 @@
+
+#textInput{
+    width: 600px;
+    height: 300px;
+    font-size: 2rem;
+}
+.textContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
